@@ -1,0 +1,26 @@
+/*variable*/
+header { background: #e6e9eb; color: #bbbdc0; padding-top: 20px; min-height: 70px; border-bottom: #5de2ca 3px solid; margin-bottom: 15px; }
+
+header .highlight, header .current a { color: #5de2ca; font-weight: bold; }
+
+#myCarousel p::-moz-selection, h3::-moz-selection { background: #5de2ca; }
+
+#myCarousel p::selection, h3::selection { background: #5de2ca; }
+
+table th { text-align: left; background-color: #5de2ca; color: #FFF; padding: 4px 30px 4px 8px; }
+
+/*nesting*/
+nav header ul { margin: 0; padding: 0; }
+nav header a:hover { color: #cccccc; font-weight: bold; text-decoration: none; }
+
+.fa-facebook, .fa-linkedin, .fa-instagram, .fa-github { padding: 25px; font-size: 30px; width: 50px; text-align: center; text-decoration: none; margin-right: 30px; margin-top: 30px; }
+
+.fa-facebook { background: #3B5998; color: white; }
+
+.fa-linkedin { background: #007bb5; color: white; }
+
+.fa-instagram { background: #c32aa3; color: white; }
+
+.fa-github { background: #333; color: white; }
+
+/*# sourceMappingURL=variable.css.map */
